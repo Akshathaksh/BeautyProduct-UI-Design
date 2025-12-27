@@ -1,6 +1,6 @@
 # BeautyProduct-UI-Design
 
-# PetalGlow – Beauty Product App UI Design
+Beauty Product App UI Design
 
 A modern and minimal UI design concept for a beauty e-commerce mobile application.
 
@@ -25,4 +25,4 @@ PetalGlow is a beauty product app UI designed to provide a clean, elegant, and u
 [View Design on Figma](https://www.figma.com/design/rMLdlqoHasyMqcyhqXmKzu/Product-design?node-id=0-1&t=2jyR6TyY92tohS0E-1)
 
 ## 👩‍🎨 Designer
-Akshatha J
+Akshatha Jayaprakash
